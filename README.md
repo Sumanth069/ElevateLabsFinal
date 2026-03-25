@@ -54,7 +54,7 @@ A machine learning model that detects fraudulent credit card transactions by ana
 ---
 
 ### 4️⃣ Resume Matcher AI
-🔗 https://github.com/PRANAVSP30/Resume_Matcher_AI  
+🔗https://github.com/Sumanth069/ResumeMatch-AI  
 
 📖 Description:  
 An AI-based system that matches resumes with job descriptions by analyzing skills, keywords, and relevance. Helps streamline recruitment by identifying the best candidate fit.
