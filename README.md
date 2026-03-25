@@ -53,14 +53,17 @@ A machine learning model that detects fraudulent credit card transactions by ana
 
 ---
 
-### 4️⃣ (Your 4th Project Name Here)
-🔗 Add your GitHub link  
+### 4️⃣ Resume Matcher AI
+🔗 https://github.com/PRANAVSP30/Resume_Matcher_AI  
 
 📖 Description:  
-(Add proper description here)
+An AI-based system that matches resumes with job descriptions by analyzing skills, keywords, and relevance. Helps streamline recruitment by identifying the best candidate fit.
 
 ⚙️ Tech Stack:
-- Add technologies
+- Python  
+- NLP (Natural Language Processing)  
+- Machine Learning  
+- Text Analysis  
 
 ---
 
@@ -79,14 +82,15 @@ A machine learning model that detects fraudulent credit card transactions by ana
 - Built real-time AI applications using MediaPipe and OpenCV  
 - Applied CNNs for image classification tasks  
 - Developed fraud detection systems using anomaly detection techniques  
-- Focused on solving impactful real-world problems  
+- Focused on solving impactful real-world problems
+- Designed NLP-based resume matching system   
 
 ---
 
 ## 📬 Contact
 
 - GitHub: https://github.com/Sumanth069  
-- LinkedIn: (Add if you have)
+- LinkedIn:https://www.linkedin.com/in/kp-sumanth-9306142a3
 
 ---
 
