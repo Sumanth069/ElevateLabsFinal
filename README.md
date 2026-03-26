@@ -74,11 +74,11 @@ An AI-powered financial risk intelligence system developed during BGS Hackathon 
 
 🛠️ Technologies Used:
 
-Python
-Scikit-learn
-NetworkX
-Streamlit
-Machine Learning Models
+-Python
+-Scikit-learn
+-NetworkX
+-Streamlit
+-Machine Learning Models
 
 ---
 
