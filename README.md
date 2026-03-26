@@ -63,7 +63,22 @@ An AI-based system that matches resumes with job descriptions by analyzing skill
 - Python  
 - NLP (Natural Language Processing)  
 - Machine Learning  
-- Text Analysis  
+- Text Analysis
+- 
+
+### 🛡️ Aegis System
+
+📝 Overview:
+An AI-powered financial risk intelligence system developed during BGS Hackathon 2026, designed to automate credit risk analysis and fraud detection using multiple machine learning models and intelligent scoring.
+🔗https://github.com/Sumanth069/AEGIS
+
+🛠️ Technologies Used:
+
+Python
+Scikit-learn
+NetworkX
+Streamlit
+Machine Learning Models
 
 ---
 
